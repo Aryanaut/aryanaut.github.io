@@ -29,9 +29,9 @@ Both variants will have similar hardware. However one will have a static display
 
 I decided to make two variants as the first variant allows people in a difficult financial situation to use our product. In India, the number of those below the poverty line is high and in order to allow a large number of people to use our product, its cost needs to be low. The first variant and its static display allow the product to be made at a low cost, making it financially suitable for a larger group of people.
 
-- [![](https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000)](https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000)
+![](https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000)(https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000)
     
-- [![](https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000)](https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000)
+![](https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000)(https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000)
     
 
 V1 User Interface VS. V2 User Interface
@@ -48,11 +48,11 @@ eyeWriter's variants both rely on the same basic method. When the user sits in f
 
 The program then takes the portion of the live camera feed which contains the eye and converts it from an RGB image to an inverted threshold image. The image conversion parameters can be adjusted according to the light level. Since the iris is the darkest part of the eye, its shape can easily be detected by the system by the contour detection method. By this method, the outline of the iris can be plotted from which its center can be found. 
 
-[![](https://aryanaut.files.wordpress.com/2021/02/thr.png?w=528)](https://aryanaut.files.wordpress.com/2021/02/thr.png)
+![](https://aryanaut.files.wordpress.com/2021/02/thr.png?w=528)(https://aryanaut.files.wordpress.com/2021/02/thr.png)
 
 Thresholded Image
 
-[![](https://aryanaut.files.wordpress.com/2021/02/examine.png?w=520)](https://aryanaut.files.wordpress.com/2021/02/examine.png)
+![](https://aryanaut.files.wordpress.com/2021/02/examine.png?w=520)(https://aryanaut.files.wordpress.com/2021/02/examine.png)
 
 Detected Iris (Center is Red)
 
@@ -62,7 +62,7 @@ In the first variant’s template itself is divided into several sections, each 
 
 In addition to these features, our prototype uses a pair of Raspberry Pi Cameras to create a 3D pixel map which allows the system to know how far away the user is and based on that information can automatically adjust its parameters to make the eye-tracking work better.
 
-[![](https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png?w=1024)](https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png)
+![](https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png?w=1024)(https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png)
 
 3D Model of the variants - Alternate title for eyeWriter is opTrak
 
