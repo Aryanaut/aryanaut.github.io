@@ -1,9 +1,9 @@
-menu_title: Example menu title
-menu_headline: example menu headline
-menu_intro: Hi! This is an example of intro that you could write for your jekyll minimal-categorized theme!
+menu_title: Aryanaut
+menu_headline: About
+menu_intro: This site is a culmiation of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I wrote. 
 show_menu_on_gate_page: False
 minimal_menu: True
-menu_logo: assets/img/avatar.png
+menu_logo: images/profile.jpg
 
 menu_pages:
 - title: Home
