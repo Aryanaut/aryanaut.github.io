@@ -3,35 +3,31 @@ title: Category 1
 layout: category-aggregator
 permalink: category-1.html
 category: category-1
-summary: Summary of a category. It is just a special placeholder wrapped in a particular class, so it looks more interesting. You can always make your own layout for a category, or make a category.html look the way you want. If you want to see the source code of this theme, feel free to check out the repository on <a href="https://github.com/ItsMeaga1n/minimal-categorized" target="_blank">GitHub</a>.
+summary: All embedded systems projects that I have made or been a part of since 2015. Code for them is on my <a href="https://github.com/Aryanaut"target="_blank">GitHub</a>.
 ---
-<p>
-    Welcome to <strong>electronut</strong> by Mahesh Venkitachalam. Here you will 
-    find articles on programming and embedded systems. Enjoy!
-    </p>
-    
-    <hr/>
-    
-    <h1>Articles</h1>
-    
-    <table>
-    {% for post in site.posts %}
-    <tr>
-    
-    <td class="art-img-cell">
-    <a href="{{ post.url | relative_url }}"><img src ="{{post.thumbnail }}"></a>
-    </td> 
-    
-    <td class="art-txt-cell">
-    <div class="art-txt">
-      <div class="art-title"> {{ post.title }} </div>
-      <div class = "art-desc">
-      {{ post.excerpt }}...<a href ="{{ post.url | relative_url }}">continue reading...</a>
-      </div>
-      <div class = "art-date">Published: {{ post.modified }}</div>
-    </div> 
-    </td>
-    
-    </tr>
-    {% endfor %}
-    </table>
+
+<hr/>
+
+<h1>Articles</h1>
+
+<table>
+{% for post in site.posts %}
+<tr>
+
+<td class="art-img-cell">
+<a href="{{ post.url | relative_url }}"><img src ="{{post.thumbnail }}"></a>
+</td> 
+
+<td class="art-txt-cell">
+<div class="art-txt">
+    <div class="art-title"> {{ post.title }} </div>
+    <div class = "art-desc">
+    {{ post.excerpt }}...<a href ="{{ post.url | relative_url }}">continue reading...</a>
+    </div>
+    <div class = "art-date">Published: {{ post.modified }}</div>
+</div> 
+</td>
+
+</tr>
+{% endfor %}
+</table>
