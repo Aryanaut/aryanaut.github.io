@@ -1,6 +1,6 @@
 menu_title: Aryanaut
 menu_headline: About
-menu_intro: My name is Aryan Mahesh. I am 16 years old and studying in class 11. This site is a culmiation of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I write. 
+menu_intro: My name is Aryan Mahesh. I am 16 years old and studying in class 11. This site is a collection of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I write. 
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: images/profile.jpg
@@ -12,14 +12,14 @@ menu_pages:
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
+- title: Embedded Systems Projects
   url: /category-1.html
   show_on_home: True
   image_url: assets/img/category-1.jpg
-  icon_name: fas fa-dice
+  icon_name: fa fa-laptop
   category: category-1
-  tooltip: This is category 1
-  description: Category 1 description, which is written in menu.yml file under :description property
+  tooltip: Projects
+  description: All my embedded systems projects.
 
 - title: Category 2
   url: /category-2.html
