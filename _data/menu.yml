@@ -1,6 +1,6 @@
 menu_title: Aryanaut
 menu_headline: About
-menu_intro: This site is a culmiation of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I wrote. 
+menu_intro: My name is Aryan Mahesh. I am 16 years old and studying in class 11. This site is a culmiation of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I write. 
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: images/profile.jpg
@@ -39,11 +39,11 @@ menu_pages:
 
 menu_contacts:
 - faicon: fab fa-github-alt
-  url: 
+  url: https://github.com/Aryanaut
   target: _blank
 - faicon: fab fa-twitter
-  url: 
+  url: https://twitter.com/aryanaut
   target: _blank
-- faicon: fas fa-envelope
-  url:
+- faicon: fas fa-instagram
+  url: https://instagram.com/aryan_m05
   target: 
