@@ -10,6 +10,7 @@ tags:
   - "iit-gawhathi"
   - "sleeping-driver-alert"
 coverImage: "drivesenseposter.png"
+layout: post
 ---
 
 The legend of _DriveSense_ began somewhere in the early 21st century. Its idea was created by a Hardware Consultant of age forty five and a teenaged cartoonist who wrote this article. The project's main idea was to wake up a driver if he were to fall asleep. It was built for an annual competition [TechExpo](http://techniche.org/techexpo) in IIT Guwahati.
@@ -63,9 +64,7 @@ def eye_aR(eye):
 
 The function eye\_aR basically calculates the horizontal distance of the eye and the distance between the eyelids. With these two values, it calculates the eye aspect ratio or EAR by adding the values and dividing it by 2.
 
-<p align='center'>
-	<img src='https://aryanaut.files.wordpress.com/2019/09/eye.jpg?w=493'>
-</p>
+<p align="center"><img src="../images/2019/eye.jpg">
 
 The EAR is constantly calculated by the computer. After trial and error, you can find that if the eyes are closed, EAR is less than 0.3. So when that event is detected, it triggers an alarm. It does this by sending signals to the piezo buzzer with 0.0025 seconds gap which results in a sound with frequency 4000 Hz.
 
@@ -88,33 +87,30 @@ The GPS is connected to the Pi through a USB to UART connecter called [Bumpy](ht
 [Twilio](https://www.twilio.com/) is an online web service to send an SMS through Wifi. I had to use this since my Sim module ran into several problems and I couldn't use it. The web service basically makes a HTTP request to the server with the message's body and who the message should be sent to. Then Twilio converts it into an SMS using the server and sends it to whoever it was sent to.
 
 That's how DriveSense works!
-<p align="center">
-<img src='https://aryanaut.files.wordpress.com/2019/09/drive_sense_1.png?w=652'>
-</p>
+<p align="center"><img src='../images/2019/drive_sense_1.png?w=652'>
+
 The experience of going for TechExpo 2019 was simply awesome. The IIT campus was massive and walking around with the entire setup was exhausting.
 
-<p align='center'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img20190829162930.jpg?w=900'>
-</p>
+<p align='center'><img src='../images/2019/img20190829162930.jpg?w=900'>
 
 TechExpo was inside a small building. Everyone was given a table and a plug point.
 
 <p align='center'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img-20190829-wa0015.jpeg?w=900'>
+<img src='../images/2019/img-20190829-wa0015.jpeg?w=900'>
 <i>My initial setup</i>
 </p>
 
 These papers are my posters. Take a look!
 
-<img src='https://aryanaut.files.wordpress.com/2019/09/drivesenseposter.png?w=900'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/ds_poster2.png?w=900'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/ds_poster3.png?w=900'>
+<img src='../images/2019/drivesenseposter.png?w=900'>
+<img src='../images/2019/ds_poster2.png?w=900'>
+<img src='../images/2019/ds_poster3.png?w=900'>
 
 The first of the two TechExpo days was a mad rush. People came in swarms, half of which was only interested as to why their face was showing up on the monitor. I said the word DriveSense so many times, I'm pretty sure I said SriveDense more than once.
 
 <p align='center'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img20190830091102.jpg?w=473'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img-20190831-wa0002.jpg?w=900' alt='Talking to the visitors about DriveSense'>
+<img src='../images/2019/img20190830091102.jpg?w=473'>
+<img src='../images/2019/img-20190831-wa0002.jpg?w=900' alt='Talking to the visitors about DriveSense'>
 </p>
 
 The story of DriveSense suddenly took an abrupt turn that day. All of a sudden, the monitor stopped showing the output as if to say "Bro, today I'm tired, ok?". My dad rushed to a nearby hardware store and bought a new micro HDMI cable, a new Raspberry Pi, HDMI - VGA adapter and FGDD - TH4N0S cable (I made that last one up). Thanks to him, the system was up and running as soon as the judge came. After a delicious pizza lunch, we looked at the setup and found any last minute mistakes and slept.
@@ -125,11 +121,11 @@ At the end of the day I got my favorite useless thing - a **participication cert
 
 I have to thank my parents for helping me through the entire project. Without them I wouldn't have got what DriveSense is now.
 
-![](/images/2019/img-20190831-wa0010.jpg?w=900)
+<img src='../images/2019/img-20190831-wa0010.jpg' w=900>
 
 At the end of the event I got to interact with an IIT professeur, Dr. Vijay Saradhi, an expert in data science and Machine Learning which was pretty cool.
 
-![Interacting with Dr.Vijay Saradhi](/images/2019/img-20190901-wa0002.jpg?w=900)
+<img alt='Interacting with Dr.Vijay Saradhi' src='../images/2019/img-20190901-wa0002.jpg' w=900>
 
 <p align="center">Interacting with Dr.Vijay Saradhi</p>
 
