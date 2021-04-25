@@ -11,7 +11,7 @@ tags:
   - "opencvprojects"
   - "python"
   - "python3"
-coverImage: images/eyewriter-graphic-1.png
+image: images/eyewriter-graphic-1.png
 thumbnail: images/eyewriter-graphic-1.png
 ---
 

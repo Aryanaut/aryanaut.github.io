@@ -8,6 +8,7 @@ tags:
   - "pcb"
   - "robotics"
   - "tote-robot"
+image: '/images/2019/img_0307.jpg'
 ---
 
 Hello everyone! After a few weeks of work I finally have this to show - The Tote.

@@ -21,14 +21,14 @@ menu_pages:
   tooltip: Projects
   description: All my embedded systems projects.
 
-- title: Category 2
+- title: Stuff I wrote
   url: /category-2.html
   show_on_home: True
-  image_url: assets/img/category-2.jpg
-  icon_name: fas fa-cogs
+  image_url: images/stuff-i-wrote.png
+  icon_name: fa fa-pencil
   category: category-2
-  tooltip: This is category 2
-  description: Category 2 description, which is written in menu.yml file under :description property
+  tooltip: Writing
+  description: All stories and comics that I've written
 
 - title: About
   url: about.html
