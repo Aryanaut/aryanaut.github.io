@@ -47,8 +47,8 @@ eyeWriter's variants both rely on the same basic method. When the user sits in f
 The program then takes the portion of the live camera feed which contains the eye and converts it from an RGB image to an inverted threshold image. The image conversion parameters can be adjusted according to the light level. Since the iris is the darkest part of the eye, its shape can easily be detected by the system by the contour detection method. By this method, the outline of the iris can be plotted from which its center can be found. 
 
 <p align="center">
-<img src="https://aryanaut.files.wordpress.com/2021/02/thr.png" alt="Thresholded Image">
-<img src="https://aryanaut.files.wordpress.com/2021/02/examine.png" alt="Detected Iris Center">
+<img src="https://aryanaut.files.wordpress.com/2021/02/thr.png?w=528" alt="Thresholded Image">
+<img src="https://aryanaut.files.wordpress.com/2021/02/examine.png?w=528" alt="Detected Iris Center">
 </p>
 
 When the center of the iris is found, the user will be instructed to look at the four corners of the screen. At each position, the system saves the position of the iris. When the position of the iris is recorded at all four points, the user is asked to look at the center of the screen. This calibration method gives the user's iris position relative to the four corners of the screen. Using this information, whenever the user looks at any point on the screen, the computer will be able to calculate which point on the screen the user is looking at (shown in the video)
