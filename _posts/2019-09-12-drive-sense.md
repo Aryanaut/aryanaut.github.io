@@ -106,11 +106,9 @@ TechExpo was inside a small building. Everyone was given a table and a plug poin
 
 These papers are my posters. Take a look!
 
-<img src='/images/2019/drivesenseposter.png' w=900>
-
-![](/images/2019/ds_poster2.png)
-
-![](/images/2019/ds_poster3.png)
+<img src='https://aryanaut.files.wordpress.com/2019/09/drivesenseposter.png?w=900'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/ds_poster2.png?w=900'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/ds_poster3.png?w=900'>
 
 The first of the two TechExpo days was a mad rush. People came in swarms, half of which was only interested as to why their face was showing up on the monitor. I said the word DriveSense so many times, I'm pretty sure I said SriveDense more than once.
 
