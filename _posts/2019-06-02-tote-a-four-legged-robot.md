@@ -14,7 +14,7 @@ Hello everyone! After a few weeks of work I finally have this to show - The Tote
 
 The [Tote](http://tote.readthedocs.io/en/latest/) is a four legged robot controlled using an Arduino Pro Mini. The original design is by Radomir Dopieralski. Twelve servo motors make up its legs. Here is how I made it.
 
-<p = align='center'>
+<p align='center'>
 <img src='/images/2019/img_0307.jpg'>
 </p>
 
