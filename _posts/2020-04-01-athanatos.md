@@ -9,9 +9,9 @@ A direct sequel to X, Athanatos begins months after their visit to the lava moon
 
 Please take a look!
 
-**Index:**
+## **Index:**
 
-_Part-1_
+## _Part-1_
 
 [RECAP](https://www.wattpad.com/845332381-athanatos-recap)
 
@@ -35,7 +35,7 @@ _Part-1_
 
 [Common Enemy](https://www.wattpad.com/862406189-athanatos-common-enemy)
 
-_Part - 2_
+## _Part - 2_
 
 [The Union](https://www.wattpad.com/862930689-athanatos-the-union)
 
@@ -45,7 +45,7 @@ _Part - 2_
 
 [War and Breadsticks](https://www.wattpad.com/866648035-athanatos-war-and-breadsticks)
 
-_Part - 3_
+## _Part - 3_
 
 [Skotadi](https://www.wattpad.com/866841798-athanatos-skotadi)
 
