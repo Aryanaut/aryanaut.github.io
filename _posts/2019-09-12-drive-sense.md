@@ -130,11 +130,15 @@ At the end of the day I got my favorite useless thing - a **participication cert
 
 I have to thank my parents for helping me through the entire project. Without them I wouldn't have got what DriveSense is now.
 
-![](/images/2019/img-20190831-wa0010.jpg)
+<p>
+<img src='/images/2019/img-20190831-wa0010.jpg'>
+</p>
 
 At the end of the event I got to interact with an IIT professeur, Dr. Vijay Saradhi, an expert in data science and Machine Learning which was pretty cool.
 
-![Interacting with Dr.Vijay Saradhi](/images/2019/img-20190901-wa0002.jpg)
+<p align="center">
+<img src="/images/2019/img-20190901-wa0002.jpg">
+</p>
 
 <p align="center">
 <i>
@@ -144,7 +148,9 @@ Interacting with Dr.Vijay Saradhi
 
 Finally at the prize distribution, I won second place in the junior category which made me the happiest I have ever been.
 
-![](/images/2019/screenshot-from-2019-09-12-14-20-49.png)
+<p align='center'>
+<img src='/images/2019/screenshot-from-2019-09-12-14-20-49.png'>
+</p>
 
 In conclusion, DriveSense was a long, fun project that I really loved making.
 
