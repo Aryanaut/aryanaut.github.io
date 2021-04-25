@@ -2,14 +2,7 @@
 title: "Freeze - A short story"
 date: "2019-11-02"
 category: category-2
-  - "aryanut"
-  - "atmosphere"
-  - "freeze"
-  - "future"
-  - "sci-fi"
-  - "short-story"
-  - "teen"
-coverImage: "/images/2019/wall.jpg"
+image: "/images/2019/wall.jpg"
 ---
 
 Our civilization would someday end. We've known this for a long time, just that we didn't know how or when. Ironically, civilization is dying because of something designed to save it.   

@@ -1,12 +1,11 @@
 ---
 title: "The Ark - A short descriptive story"
 date: "2019-09-16"
-categories: 
-  - "writing"
+category: category-2
 tags: 
   - "cosmos"
   - "sci-fi"
-coverImage: "/images/2019/whatsapp-image-2019-11-03-at-7.40.26-pm-1.jpeg"
+image: "/images/2019/whatsapp-image-2019-11-03-at-7.40.26-pm-1.jpeg"
 ---
 
 It has been four days since we left Earth. Today will be the last day where the blue drop of ink - a dot in the blackness of space - that we call home, will be visible. For the next half a century, the titanium walls of The Ark will be humanity’s home in the cosmos.
