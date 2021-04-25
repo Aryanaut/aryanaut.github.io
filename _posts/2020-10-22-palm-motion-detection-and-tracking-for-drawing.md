@@ -1,10 +1,7 @@
 ---
 title: "Palm motion detection and tracking for drawing!"
 date: "2020-10-22"
-categories: 
-  - "electronics"
-  - "programming"
-  - "project"
+category: category-1
 tags: 
   - "computer-vision"
   - "hand-tracking"
