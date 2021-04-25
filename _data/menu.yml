@@ -21,7 +21,7 @@ menu_pages:
   tooltip: Projects
   description: All my embedded systems projects.
 
-- title: Stuff I wrote
+- title: Stuff I Wrote
   url: /category-2.html
   show_on_home: True
   image_url: images/stuff-i-wrote.png
@@ -29,6 +29,30 @@ menu_pages:
   category: category-2
   tooltip: Writing
   description: All stories and comics that I've written
+
+- title: Artwork
+  url: /artwork.html
+  show_on_home: True 
+  icon_name: fa fa-paint-brush
+  category: artwork 
+  tooltip: Artwork
+  description: All artwork I've made.
+
+- title: Astronomy
+  url: /astronomy.html
+  show_on_home: True
+  icon_name: fa fa-globe
+  category: astronomy
+  tooltip: Astronomy
+  description: All posts that I've made talking about astronomy.
+
+- title: Blog 
+  url: /blog.html
+  show_on_home: True
+  icon_name: fa fa-film 
+  category: blog 
+  tooltip: Blog
+  description: All posts I've made on random topics like movies, books etc.
 
 - title: About
   url: about.html
