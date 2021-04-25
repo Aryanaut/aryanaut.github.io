@@ -1,7 +1,7 @@
 ---
 title: "EyeWriter"
 modified: "2021-02-14"
-categories: category-1
+category: category-1
 tags: 
   - "computervision"
   - "computervisionprojects"
