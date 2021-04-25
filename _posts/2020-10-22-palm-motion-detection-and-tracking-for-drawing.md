@@ -53,9 +53,7 @@ _**sPos(x1, y1)** where_ **_x1_ = _(x_\*_ratioX_)÷2** _and_ **_y1 \= (y\*ratioY
 
 Now using the python module **[_pynput_](https://pypi.org/project/pynput/)** we can set the mouse cursor position to _sPos_ and now we can control the mouse with hand movements.
 
-https://youtu.be/AOcOx\_yZM98
-
-Demo Video
+[Here is a demo](https://youtu.be/AOcOx\_yZM98)
 
 **Conclusion**
 
