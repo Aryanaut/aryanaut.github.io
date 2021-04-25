@@ -16,8 +16,8 @@ The legend of _DriveSense_ began somewhere in the early 21st century. Its idea w
 
 DriveSense has two main goals.
 
-1. Waking up a drowsy driver before he crashes the car.
-2. Sending an emergency SMS if there is a crash.
+- Waking up a drowsy driver before he crashes the car.
+- Sending an emergency SMS if there is a crash.
 
 ## Drowsiness Detection
 
@@ -88,20 +88,21 @@ The GPS is connected to the Pi through a USB to UART connecter called [Bumpy](ht
 [Twilio](https://www.twilio.com/) is an online web service to send an SMS through Wifi. I had to use this since my Sim module ran into several problems and I couldn't use it. The web service basically makes a HTTP request to the server with the message's body and who the message should be sent to. Then Twilio converts it into an SMS using the server and sends it to whoever it was sent to.
 
 That's how DriveSense works!
-
-![](https://aryanaut.files.wordpress.com/2019/09/drive_sense_1.png?w=652)
-
+<p align="center">
+<img src='https://aryanaut.files.wordpress.com/2019/09/drive_sense_1.png?w=652'>
+</p>
 The experience of going for TechExpo 2019 was simply awesome. The IIT campus was massive and walking around with the entire setup was exhausting.
 
-![](https://aryanaut.files.wordpress.com/2019/09/img20190829162930.jpg?w=1024)
-
-Barely one-fourth of the campus
+<p align='center'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/img20190829162930.jpg?w=900'>
+</p>
 
 TechExpo was inside a small building. Everyone was given a table and a plug point.
 
-![](https://aryanaut.files.wordpress.com/2019/09/img-20190829-wa0015.jpeg?w=1024)
-
-My initial setup
+<p align='center'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/img-20190829-wa0015.jpeg?w=900'>
+<i>My initial setup</i>
+</p>
 
 These papers are my posters. Take a look!
 
@@ -114,8 +115,8 @@ These papers are my posters. Take a look!
 The first of the two TechExpo days was a mad rush. People came in swarms, half of which was only interested as to why their face was showing up on the monitor. I said the word DriveSense so many times, I'm pretty sure I said SriveDense more than once.
 
 <p align='center'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img20190830091102.jpg?w=473'>
-<img src='https://aryanaut.files.wordpress.com/2019/09/img-20190831-wa0002.jpg?w=1024' alt='Talking to the visitors about DriveSense'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/img20190830091102.jpg?w=400'>
+<img src='https://aryanaut.files.wordpress.com/2019/09/img-20190831-wa0002.jpg?w=900' alt='Talking to the visitors about DriveSense'>
 </p>
 
 The story of DriveSense suddenly took an abrupt turn that day. All of a sudden, the monitor stopped showing the output as if to say "Bro, today I'm tired, ok?". My dad rushed to a nearby hardware store and bought a new micro HDMI cable, a new Raspberry Pi, HDMI - VGA adapter and FGDD - TH4N0S cable (I made that last one up). Thanks to him, the system was up and running as soon as the judge came. After a delicious pizza lunch, we looked at the setup and found any last minute mistakes and slept.
