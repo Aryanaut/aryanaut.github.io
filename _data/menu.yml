@@ -30,14 +30,6 @@ menu_pages:
   tooltip: Writing
   description: All stories and comics that I've written
 
-- title: Artwork
-  url: /artwork.html
-  show_on_home: True 
-  icon_name: fa fa-paint-brush
-  category: artwork 
-  tooltip: Artwork
-  description: All artwork I've made.
-
 - title: Astronomy
   url: /astronomy.html
   show_on_home: True
@@ -45,6 +37,16 @@ menu_pages:
   category: astronomy
   tooltip: Astronomy
   description: All posts that I've made talking about astronomy.
+  image_url: images/astronomy.png
+
+- title: Artwork
+  url: /artwork.html
+  show_on_home: True 
+  icon_name: fa fa-paint-brush
+  category: artwork 
+  tooltip: Artwork
+  description: All artwork I've made.
+  image_url: images/artwork-logo.png
 
 - title: Blog 
   url: /blog.html
@@ -53,6 +55,7 @@ menu_pages:
   category: blog 
   tooltip: Blog
   description: All posts I've made on random topics like movies, books etc.
+  images_url: images/blog.png
 
 - title: About
   url: about.html
