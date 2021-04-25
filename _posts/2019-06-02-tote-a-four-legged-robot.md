@@ -83,18 +83,16 @@ Each leg would look like this if you did it correctly.
 
 <p align="center">
 <img src='/images/2019/img_0332.jpg'>
-
-<i>The legs - The blue cuboids are motors</i>
 </p>
+<p align="center"><i>The legs - The blue cuboids are motors</i></p>
 
 <p align="center">
 <img src='/images/2019/legs.jpg'>
-
-<i>The design would look like this:</i>
 </p>
+<p align="center"><i>The design would look like this:</i></p>
 
 <p align="center">
-<img src='images/img_0256.jpg'>
+<img src='/images/2019/img_0256.jpg'>
 </p>
 
 Finally, the code. The code can be downloaded from this github link: [https://github.com/Aryanaut/tote-test](https://github.com/Aryanaut/tote-test)
