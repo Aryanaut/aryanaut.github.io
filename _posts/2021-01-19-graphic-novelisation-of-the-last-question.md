@@ -21,4 +21,4 @@ That's all I have for now. Live long and prosper!
 
 Here's the link again if you missed it -
 
-https://gum.co/kOTFW
+<a href='https://gum.co/kOTFW'>https://gum.co/kOTFW</a>
