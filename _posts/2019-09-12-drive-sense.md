@@ -65,7 +65,7 @@ def eye_aR(eye):
 The function eye\_aR basically calculates the horizontal distance of the eye and the distance between the eyelids. With these two values, it calculates the eye aspect ratio or EAR by adding the values and dividing it by 2.
 
 <p align='center'>
-<img src=../images/2019/eye.jpg>
+<img src='../images/2019/eye.jpg'>
 </p>
 
 The EAR is constantly calculated by the computer. After trial and error, you can find that if the eyes are closed, EAR is less than 0.3. So when that event is detected, it triggers an alarm. It does this by sending signals to the piezo buzzer with 0.0025 seconds gap which results in a sound with frequency 4000 Hz.
@@ -118,7 +118,8 @@ The first of the two TechExpo days was a mad rush. People came in swarms, half o
 
 <p align='center'>
 <img src='../images/2019/img20190830091102.jpg'>
-<img src='../images/2019/img-20190831-wa0002.jpg' alt='Talking to the visitors about DriveSense'>
+
+<img src='../images/2019/img-20190831-wa0002.jpg'>
 </p>
 
 The story of DriveSense suddenly took an abrupt turn that day. All of a sudden, the monitor stopped showing the output as if to say "Bro, today I'm tired, ok?". My dad rushed to a nearby hardware store and bought a new micro HDMI cable, a new Raspberry Pi, HDMI - VGA adapter and FGDD - TH4N0S cable (I made that last one up). Thanks to him, the system was up and running as soon as the judge came. After a delicious pizza lunch, we looked at the setup and found any last minute mistakes and slept.
