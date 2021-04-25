@@ -106,7 +106,7 @@ TechExpo was inside a small building. Everyone was given a table and a plug poin
 
 These papers are my posters. Take a look!
 
-<img src='/images/2019/drivesenseposter.png'>
+<img src='/images/2019/drivesenseposter.png' w=900>
 
 ![](/images/2019/ds_poster2.png)
 
