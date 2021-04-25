@@ -28,8 +28,8 @@ Both variants will have similar hardware. However one will have a static display
 I decided to make two variants as the first variant allows people in a difficult financial situation to use our product. In India, the number of those below the poverty line is high and in order to allow a large number of people to use our product, its cost needs to be low. The first variant and its static display allow the product to be made at a low cost, making it financially suitable for a larger group of people.
 
 <p align='center'>
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000" alt = 'V1 Interface'>
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000" alt = 'V2 Interface'>
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=900" alt = 'V1 Interface'>
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=900" alt = 'V2 Interface'>
 </p>    
 
 V1 User Interface VS. V2 User Interface
@@ -58,7 +58,7 @@ In the first variant’s template itself is divided into several sections, each 
 In addition to these features, our prototype uses a pair of Raspberry Pi Cameras to create a 3D pixel map which allows the system to know how far away the user is and based on that information can automatically adjust its parameters to make the eye-tracking work better.
 
 <p align='center'>
-<img src='https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png', alt='3D Model of the variants - Alternate title for eyeWriter is opTrak'>
+  <img src='https://aryanaut.files.wordpress.com/2021/02/3d-model-of-both-variants.png?w=520' alt="3D Model of the variants - Alternate title for eyeWriter is opTrak">
 </p>
 
 That's all I have for now. Live Long and Prosper!
