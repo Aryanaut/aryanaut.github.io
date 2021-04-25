@@ -17,9 +17,9 @@ thumbnail: images/eyewriter-graphic-1.png
 
 I've been working on a prototype for a project I call eyeWriter. The basic idea of eyeWriter is to track the user's eye movements and determine where the user is looking on a screen consisting of several communication options and thereby finding what the user wants to communicate. The project has been put through three different competitions and receieved a large number of suggestions. I'm still developing the product into its final version but a peliminary 'proof-of-concept' prototype is complete. Here's a short video I made about it.
 
-https://www.youtube.com/watch?v=jHoosxEf85E
+<a href='https://www.youtube.com/watch?v=jHoosxEf85E'>The video</a>
 
-EyeWriter :)
+## EyeWriter :)
 
 The product will have two variants. 
 
@@ -28,8 +28,8 @@ Both variants will have similar hardware. However one will have a static display
 I decided to make two variants as the first variant allows people in a difficult financial situation to use our product. In India, the number of those below the poverty line is high and in order to allow a large number of people to use our product, its cost needs to be low. The first variant and its static display allow the product to be made at a low cost, making it financially suitable for a larger group of people.
 
 <p align='center'>
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png">
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png">
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png" w=528>
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png" w=528>
 </p>    
 
 V1 User Interface VS. V2 User Interface
