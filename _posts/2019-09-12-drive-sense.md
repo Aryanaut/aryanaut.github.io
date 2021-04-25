@@ -64,7 +64,7 @@ def eye_aR(eye):
 
 The function eye\_aR basically calculates the horizontal distance of the eye and the distance between the eyelids. With these two values, it calculates the eye aspect ratio or EAR by adding the values and dividing it by 2.
 
-<p align="center"><img src="../images/2019/eye.jpg">
+<p align="center"><img src="../images/2019/eye.jpg"></p>
 
 The EAR is constantly calculated by the computer. After trial and error, you can find that if the eyes are closed, EAR is less than 0.3. So when that event is detected, it triggers an alarm. It does this by sending signals to the piezo buzzer with 0.0025 seconds gap which results in a sound with frequency 4000 Hz.
 
@@ -87,11 +87,11 @@ The GPS is connected to the Pi through a USB to UART connecter called [Bumpy](ht
 [Twilio](https://www.twilio.com/) is an online web service to send an SMS through Wifi. I had to use this since my Sim module ran into several problems and I couldn't use it. The web service basically makes a HTTP request to the server with the message's body and who the message should be sent to. Then Twilio converts it into an SMS using the server and sends it to whoever it was sent to.
 
 That's how DriveSense works!
-<p align="center"><img src='../images/2019/drive_sense_1.png?w=652'>
+<p align="center"><img src='../images/2019/drive_sense_1.png?w=652'></p>
 
 The experience of going for TechExpo 2019 was simply awesome. The IIT campus was massive and walking around with the entire setup was exhausting.
 
-<p align='center'><img src='../images/2019/img20190829162930.jpg' w=700>
+<p align='center'><img src='../images/2019/img20190829162930.jpg' w=700></p>
 
 TechExpo was inside a small building. Everyone was given a table and a plug point.
 
@@ -102,9 +102,11 @@ TechExpo was inside a small building. Everyone was given a table and a plug poin
 
 These papers are my posters. Take a look!
 
+<p align='center'>
 <img src='../images/2019/drivesenseposter.png' w=700>
 <img src='../images/2019/ds_poster2.png' w=700>
 <img src='../images/2019/ds_poster3.png' w=700>
+</p>
 
 The first of the two TechExpo days was a mad rush. People came in swarms, half of which was only interested as to why their face was showing up on the monitor. I said the word DriveSense so many times, I'm pretty sure I said SriveDense more than once.
 
@@ -121,17 +123,17 @@ At the end of the day I got my favorite useless thing - a **participication cert
 
 I have to thank my parents for helping me through the entire project. Without them I wouldn't have got what DriveSense is now.
 
-<img src='../images/2019/img-20190831-wa0010.jpg' w=700>
+<p align='center'><img src='../images/2019/img-20190831-wa0010.jpg' w=700></p>
 
 At the end of the event I got to interact with an IIT professeur, Dr. Vijay Saradhi, an expert in data science and Machine Learning which was pretty cool.
 
-<img alt='Interacting with Dr.Vijay Saradhi' src='../images/2019/img-20190901-wa0002.jpg' w=700>
+<p align='center'><img alt='Interacting with Dr.Vijay Saradhi' src='../images/2019/img-20190901-wa0002.jpg' w=700></p>
 
 <p align="center">Interacting with Dr.Vijay Saradhi</p>
 
 Finally at the prize distribution, I won second place in the junior category which made me the happiest I have ever been.
 
-<img src='../images/2019/screenshot-from-2019-09-12-14-20-49.png' w=700>
+<p align='center'><img src='../images/2019/screenshot-from-2019-09-12-14-20-49.png' w=700></p>
 
 In conclusion, DriveSense was a long, fun project that I really loved making.
 
