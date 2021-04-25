@@ -18,33 +18,33 @@ First the program reads the video from the connected camera (USB webcam in my ca
 From here the program detects the largest contour in the image.
 
 <p align="center">
-<img src='/images/2020/hand-1.jpg'>
+<img src='/images/10/2020/hand-1.jpg'>
     
-<img src='/images/2020/gray-1.png'>
+<img src='/images/10/2020/gray-1.png'>
     
-<img src='/images/2020/canny-1.png'>
+<img src='/images/10/2020/canny-1.png'>
 
-<img src='/images/2020/detected_contours-1.png'>
+<img src='/images/10/2020/detected_contours-1.png'>
 </p>
 
 After that, I detect the convex hull in the image. With this, it will join the tips of the fingers to form a polygon. To better explain my point, here's how it looks.
 
 <p align="center">
-<img src='/images/2020/output-0.png'>
+<img src='/images/10/2020/output-0.png'>
 
-<img src='/images/2020/output-1.png'>
+<img src='/images/10/2020/output-1.png'>
 </p>
 
 After finding the convex hull, to detect the pointer finger, we find the furthest point from the center that is within the convex hull (in blue).
 
 <p align="center">
-<img src='/images/2020/output-2.png'>
+<img src='/images/10/2020/output-2.png'>
 </p>
 
 Let's call this point **_fPos(x, y)_**. To improve the tracking, it is best to use a pointed object such as a pencil to test this program.
 
 <p align="center">
-<img src='/images/2020/output-3.png'>
+<img src='/images/10/2020/output-3.png'>
 </p>
 
 Now we need to find the position on the screen where the mouse cursor should be relative to **_fPos(x, y)_**. I did this by first finding the ratios between the dimensions of the video. My webcam's video resolution is 640x480 and my screen's resolution is 1920x1080. So the center of the video will be _**videoCenter(320, 240)**_ and the screen's center will be _**screenCenter(960, 540)**_. If we divide **_videoCenter_'s** x-coordinate by **_screenCenter_'s** x-coordinate, we get _**ratioX**._ Similarly we can do the same with _**videoCenter**_ and **_screenCenter_'s** y-coordinates to obtain _**ratioY**_. Now to get the position of the cursor on the screen relative to _fPos_ is:-
