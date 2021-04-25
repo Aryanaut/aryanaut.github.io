@@ -28,8 +28,8 @@ Both variants will have similar hardware. However one will have a static display
 I decided to make two variants as the first variant allows people in a difficult financial situation to use our product. In India, the number of those below the poverty line is high and in order to allow a large number of people to use our product, its cost needs to be low. The first variant and its static display allow the product to be made at a low cost, making it financially suitable for a larger group of people.
 
 <p align='center'>
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png" w=528>
-  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png" w=528>
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/2nd-variant.png?w=1000" alt = 'V1 Interface'>
+  <img src = "https://aryanaut.files.wordpress.com/2021/02/optrak-graphic.png?w=1000" alt = 'V2 Interface'>
 </p>    
 
 V1 User Interface VS. V2 User Interface
@@ -40,7 +40,7 @@ The product will consist of a motherboard where all the image processing happens
 
 eyeWriter fits into the assistive device market. It can be used anywhere, from hospitals to bedrooms, and is easily implemented, requiring only a stand to keep the hardware. This setup is simple and lightweight, requiring no knowledge of computers or programming, and needs to be set up only once as long as the patient and the device are relatively stationary.
 
-**Working** **\-**
+## Working
 
 eyeWriter's variants both rely on the same basic method. When the user sits in front of opTrak, the system automatically detects his or her face using the python library dlib. It compares all visible shapes from the live camera feed to a set of 68 facial landmarks that roughly depict the shape of the face. Using these same landmarks, the system finds the eye. 
 
