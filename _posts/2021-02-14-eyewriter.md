@@ -1,10 +1,7 @@
 ---
 title: "EyeWriter"
 modified: "2021-02-14"
-categories: 
-  - "electronics"
-  - "programming"
-  - "project"
+categories: category-1
 tags: 
   - "computervision"
   - "computervisionprojects"
