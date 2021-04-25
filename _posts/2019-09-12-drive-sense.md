@@ -91,26 +91,26 @@ That's how DriveSense works!
 
 The experience of going for TechExpo 2019 was simply awesome. The IIT campus was massive and walking around with the entire setup was exhausting.
 
-<p align='center'><img src='../images/2019/img20190829162930.jpg?w=900'>
+<p align='center'><img src='../images/2019/img20190829162930.jpg' w=700>
 
 TechExpo was inside a small building. Everyone was given a table and a plug point.
 
 <p align='center'>
-<img src='../images/2019/img-20190829-wa0015.jpeg?w=900'>
+<img src='../images/2019/img-20190829-wa0015.jpeg' w=700>
 <i>My initial setup</i>
 </p>
 
 These papers are my posters. Take a look!
 
-<img src='../images/2019/drivesenseposter.png?w=900'>
-<img src='../images/2019/ds_poster2.png?w=900'>
-<img src='../images/2019/ds_poster3.png?w=900'>
+<img src='../images/2019/drivesenseposter.png' w=700>
+<img src='../images/2019/ds_poster2.png' w=700>
+<img src='../images/2019/ds_poster3.png' w=700>
 
 The first of the two TechExpo days was a mad rush. People came in swarms, half of which was only interested as to why their face was showing up on the monitor. I said the word DriveSense so many times, I'm pretty sure I said SriveDense more than once.
 
 <p align='center'>
 <img src='../images/2019/img20190830091102.jpg?w=473'>
-<img src='../images/2019/img-20190831-wa0002.jpg?w=900' alt='Talking to the visitors about DriveSense'>
+<img src='../images/2019/img-20190831-wa0002.jpg?w=700' alt='Talking to the visitors about DriveSense'>
 </p>
 
 The story of DriveSense suddenly took an abrupt turn that day. All of a sudden, the monitor stopped showing the output as if to say "Bro, today I'm tired, ok?". My dad rushed to a nearby hardware store and bought a new micro HDMI cable, a new Raspberry Pi, HDMI - VGA adapter and FGDD - TH4N0S cable (I made that last one up). Thanks to him, the system was up and running as soon as the judge came. After a delicious pizza lunch, we looked at the setup and found any last minute mistakes and slept.
@@ -121,17 +121,17 @@ At the end of the day I got my favorite useless thing - a **participication cert
 
 I have to thank my parents for helping me through the entire project. Without them I wouldn't have got what DriveSense is now.
 
-<img src='../images/2019/img-20190831-wa0010.jpg' w=900>
+<img src='../images/2019/img-20190831-wa0010.jpg' w=700>
 
 At the end of the event I got to interact with an IIT professeur, Dr. Vijay Saradhi, an expert in data science and Machine Learning which was pretty cool.
 
-<img alt='Interacting with Dr.Vijay Saradhi' src='../images/2019/img-20190901-wa0002.jpg' w=900>
+<img alt='Interacting with Dr.Vijay Saradhi' src='../images/2019/img-20190901-wa0002.jpg' w=700>
 
 <p align="center">Interacting with Dr.Vijay Saradhi</p>
 
 Finally at the prize distribution, I won second place in the junior category which made me the happiest I have ever been.
 
-![](/images/2019/screenshot-from-2019-09-12-14-20-49.png?w=900)
+<img src='../images/2019/screenshot-from-2019-09-12-14-20-49.png' w=700>
 
 In conclusion, DriveSense was a long, fun project that I really loved making.
 
