@@ -136,7 +136,7 @@ And that's it! After screaming to pillows, melting wires, and testing, the robot
 Just kidding. Here's the real one.
 
 <p align="center">
-<img src='/images/2019/img_0307-1.jpg'>
+<img src='/images/2019/img_0307.jpg'>
 </p>
 
 The wires are tied together with zip ties to avoid tangling
