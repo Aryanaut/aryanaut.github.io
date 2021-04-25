@@ -55,7 +55,7 @@ menu_pages:
   category: blog 
   tooltip: Blog
   description: All posts I've made on random topics like movies, books etc.
-  images_url: images/blog.png
+  image_url: images/blog.png
 
 - title: About
   url: about.html
