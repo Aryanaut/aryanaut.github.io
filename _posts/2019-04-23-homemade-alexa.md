@@ -1,15 +1,13 @@
 ---
 title: "DIY Alexa"
 date: "2019-04-23"
-categories: 
-  - "electronics"
-  - "programming"
+category: category-1
 tags: 
   - "alexa"
   - "diy"
   - "how-to-make-alexa-at-home"
   - "step-by-step"
-coverImage: "/images/2019/img_0253-1.jpg"
+image: "/images/2019/img_0253-1.jpg"
 ---
 
 ## Introduction
@@ -34,9 +32,9 @@ Parts:
 
 **Alexa Installation**
 
-The Alexa Voice Service cannot be just installed and expected to work immediately. Even its installation itself is a complex process. The AVS comes as a .git file from this github link ---> https://github.com/alexa/avs-device-sdk
+The Alexa Voice Service cannot be just installed and expected to work immediately. Even its installation itself is a complex process. The AVS comes as a .git file from this github [link](https://github.com/alexa/avs-device-sdk).
 
-I had to create a few folders inside the raspberry pi and install a few dependencies. For more information on which dependencies and folders use this [link](https://github.com/alexa/avs-device-sdk/wiki/Raspberry-Pi-Quick-Start-Guide):
+I had to create a few folders inside the raspberry pi and install a few dependencies. For more information on which dependencies and folders use this [link](https://github.com/alexa/avs-device-sdk/wiki/Raspberry-Pi-Quick-Start-Guide).
 
 I used the command `cmake` to open up the .git file and spread its contents into the folders. I populated those files with more contents from the .git file using the command `make` . The second process of populating is called building and is a very long process. Get familiar with this term because if you're like me, you will have to this process several times.
 
