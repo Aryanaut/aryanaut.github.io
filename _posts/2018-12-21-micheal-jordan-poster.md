@@ -1,8 +1,7 @@
 ---
 title: "Micheal Jordan Poster"
 date: "2018-12-21"
-categories: 
-  - "sketching"
+category: artwork
 tags: 
   - "baskeball"
   - "doodle"
@@ -10,12 +9,12 @@ tags:
   - "micheal-jordan"
   - "poster"
   - "wacom-tablet"
-coverImage: "img_5106.jpg"
+image: "/images/2018/12/img_5106.jpg"
 ---
 
 My poster for a Basketball event at school.
 
-![](images/img_5106.jpg)
+![](/images/2018/12/img_5106.jpg)
 
 Hope you like it!
 

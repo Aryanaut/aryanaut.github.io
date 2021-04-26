@@ -57,6 +57,14 @@ menu_pages:
   description: All posts I've made on random topics like movies, books etc.
   image_url: images/blog.png
 
+- title: Archive
+  url: /archive.html 
+  show_on_home: False
+  icon_name: fa fa-book
+  category: archive
+  tooltip: Archive
+  description: All posts from 2017 and older where I mostly just posted art and book reviews
+
 - title: About
   url: about.html
   show_on_home: False
