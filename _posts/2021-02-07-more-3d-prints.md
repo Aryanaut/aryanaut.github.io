@@ -1,9 +1,7 @@
 ---
 title: "More 3D prints!"
 date: "2021-02-07"
-categories: 
-  - "doodles"
-  - "sketching"
+category: categort-2
 tags: 
   - "3d-printing"
   - "3d-prints"
