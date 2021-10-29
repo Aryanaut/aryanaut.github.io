@@ -9,7 +9,7 @@ layout: post
 Drew Luke Skywalker for May the 4th. I was also surprised by a reply from Mark Hamill himself for the artwork!
 
 <p align="center">
-<img src='/images/2021/may4th.jpg'>
+<img src='/images/2021/may4th.png'>
 </p>
 
 <p align="center">
