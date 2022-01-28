@@ -182,11 +182,7 @@ The output window(```frame```) and thresholded image(```thr```) are displayed. A
 
 Here's a short demonstration of the project working.
 
-<p align="center">
-<video width='640' height='524' controls>
-    <source src="/images/2022/classify_digit_demo.mp4">
-Your browser does not support the HTML video tag.
-</p>
+https://youtu.be/2nKTCNXOBUE
 
 ## Conclusion
 This is the first of hopefully many machine learning projects. I had a lot of fun making this and managed to learn about many new concepts in mathematics. Hopefully you liked this article. 
