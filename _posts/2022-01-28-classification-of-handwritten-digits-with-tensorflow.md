@@ -47,7 +47,6 @@ The values of each image is then scaled from its default range of 0 to 255 to a 
 
 ```
 xTrain = tf.keras.utils.normalize(x_train, axis=1) # normalizing training data
-
 xTest = tf.keras.utils.normalize(x_test, axis=1) # normalizing testing data
 ```
 
@@ -66,8 +65,11 @@ model.add(tf.keras.layers.Dense(10, activation=tf.nn.softmax)) # CNN Final Layer
 The model is then compiled and then fitted according to the training data. The function ```model.fit()``` arranges the training data to correspond to the labels associated with that data. For example, the training data that consists of a handwritten seven is associated with the label '7'. 
 
 ```
-model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"]) # model compiled
-
+# model compiles here
+model.compile(optimizer="adam", 
+loss="sparse_categorical_crossentropy", 
+metrics=["accuracy"]) 
+# model if fitted here
 model.fit(x=xTrain, y=y_train, epochs=5) # model fitted 
 ```
 
@@ -164,7 +166,9 @@ A rectangle is drawn on the output window and an area of size 200 x 200 pixels i
 ```
     areaFlattened = tf.keras.utils.normalize(area, axis=1)
     inData[currentVal] = areaFlattened
-    cv2.putText(frame, str(modelOut), (30, 30), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 0, 0), 1, cv2.LINE_AA, False)
+    cv2.putText(frame, str(modelOut), (30, 30), 
+        cv2.FONT_HERSHEY_COMPLEX, 1, (255, 0, 0), 
+        1, cv2.LINE_AA, False)
 ```
 
 ```area``` is then flattened so that all its values range from 0 to 1. Each frame of ```area``` is then added to ```inData``` and the model's output is displayed on the output window. The output
