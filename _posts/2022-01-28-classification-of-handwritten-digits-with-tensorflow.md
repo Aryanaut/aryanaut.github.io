@@ -18,7 +18,7 @@ The inputs also come with a set of values that factor into each neuron's output 
 
 Finally, to make the neuron's calculations easier, a function is created to limit the range of inputs. If the inputs vary a lot in value, an __activation function__ is used to transform the given set of inputs to range between two values known to the CNN. For example, if the inputs vary between -3 and 200, a sigmoid activation function (a particular type of activation function) transforms this range to make it fit between 0 and 1. For this project, I used the [ReLU activation function](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/) that returns the input if the value is positive and returns a zero if it is negative. It has become the default activation function because it's easy to train and achieves better performance.
 
-In order to classify the handwritten digit, a CNN is created and a set of instructions is given to it to classify in the input image into given categories. When the image of the handwritten digit is given as input to the model in the form of a matrix, it goes through multiple layers of mathematical operations and is compared with the set of instructions provided. The image is fed into the CNN in the form of a [tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw). At the end of the network, the image is classified into one of ten categories (each representing a digit). 
+In order to classify the handwritten digit, a CNN is created and a set of instructions is given to it to classify in the input image into given categories. When the i mage of the handwritten digit is given as input to the model in the form of a matrix, it goes through multiple layers of mathematical operations and is compared with the set of instructions provided. The image is fed into the CNN in the form of a [tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw). At the end of the network, the image is classified into one of ten categories (each representing a digit). 
 
 <p align="center">
 <img src='/images/2022/CNN_detecting_digit_blockdia.png'>
@@ -26,7 +26,7 @@ In order to classify the handwritten digit, a CNN is created and a set of instru
 
 First the image is resized to 28 x 28 pixels, then flattnened into a matrix of dimensions 1 x 784 so that the CNN can process the image. The flattened image is put through a convolution layer which provides the important features of the image to the next layer. The second and third layers are dense layers with 128 neurons. Finally the processed data is classified into one of ten nodes, each node representing one digit, in the last layer.
 
-## The Code
+## The Code Explained
 
 **Loading the Data**
 
