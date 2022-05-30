@@ -12,7 +12,7 @@ layout: default
                 <header>
                     <h2>
                         {% if post.external_url %}
-                        <a href="{{ post.external_url | relative_url }}" target="_blank"><img src = "{{post.image }}" height="120"></a>
+                        <a href="{{ post.external_url | relative_url }}" target="_blank"></a>
                         {% else %}
                         <style>
                             img {
@@ -27,7 +27,7 @@ layout: default
                               box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
                             }
                             </style>
-                        <a href="{{ post.url | relative_url }}"><img src = "{{post.image }}" height="120"></a>
+                        <a href="{{ post.url | relative_url }}"><img src = "{{post.image }}" height="120">
                         {% endif %}
                             <i class="fas fa-angle-right"></i>
                             {{ post.title }}
