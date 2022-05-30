@@ -12,9 +12,9 @@ layout: default
                 <header>
                     <h2>
                         {% if post.external_url %}
-                        <a href="{{ post.external_url | relative_url }}" target="_blank"><img src = "{{post.image }}"></a>
+                        <a href="{{ post.external_url | relative_url }}" target="_blank">
                         {% else %}
-                        <a href="{{ post.url | relative_url }}">
+                        <a href="{{ post.url | relative_url }}"><img src = "{{post.image }}"></a>
                         {% endif %}
                             <i class="fas fa-angle-right"></i>
                             {{ post.title }}
