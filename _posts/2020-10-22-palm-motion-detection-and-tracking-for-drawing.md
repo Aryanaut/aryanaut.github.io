@@ -8,7 +8,7 @@ tags:
   - "opencv-projects"
   - "projects"
   - "tech"
-image: "/images/detected_contours.png"
+image: "/images/2020/10/detected_contours.png"
 ---
 
 Recently I made a program to track my hand movements and translate that into cursor movements on the computer screen. I used OpenCV and Python3 to do so. **Here's how it works!**

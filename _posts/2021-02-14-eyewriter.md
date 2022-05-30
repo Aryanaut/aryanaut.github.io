@@ -11,8 +11,8 @@ tags:
   - "opencvprojects"
   - "python"
   - "python3"
-image: images/eyewriter-graphic-1.png
-thumbnail: images/eyewriter-graphic-1.png
+image: /images/eyewriter-graphic-1.png
+thumbnail: /images/eyewriter-graphic-1.png
 ---
 
 I've been working on a prototype for a project I call eyeWriter. The basic idea of eyeWriter is to track the user's eye movements and determine where the user is looking on a screen consisting of several communication options and thereby finding what the user wants to communicate. The project has been put through three different competitions and receieved a large number of suggestions. I'm still developing the product into its final version but a peliminary 'proof-of-concept' prototype is complete. Here's a short video I made about it.

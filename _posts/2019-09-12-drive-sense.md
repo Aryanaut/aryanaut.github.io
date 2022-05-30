@@ -9,7 +9,7 @@ tags:
   - "embedded"
   - "iit-gawhathi"
   - "sleeping-driver-alert"
-image: "/images/drivesenseposter.png"
+image: "/images/2019/drivesenseposter.png"
 layout: post
 ---
 
