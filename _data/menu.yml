@@ -21,7 +21,7 @@ menu_pages:
   tooltip: Projects
   description: All my embedded systems projects.
 
-- title: Stuff I Wrote
+- title: Writing
   url: /category-2.html
   show_on_home: True
   image_url: images/stuff-i-wrote.png
