@@ -1,2 +1,2 @@
-# [aryanaut.github.io](https://aryanaut.github.io/)
-Aryan Mahesh's new website
+# Aryanaut
+This is a testing site to add features to https://aryanaut.github.io/
