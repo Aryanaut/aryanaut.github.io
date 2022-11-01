@@ -1,6 +1,6 @@
 ---
 title: "Ornithopter"
-date: "2022-15-08"
+date: "2022-08-15"
 category: portfolio
 layout: post
 image: "/images/portfolio/thopter.png"
