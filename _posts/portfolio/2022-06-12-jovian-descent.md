@@ -7,7 +7,7 @@ image: "/images/portfolio/e-cover-2-cropped.png"
 ---
 
 <p align="center">
-<img src='/images/portfolio/e-cover-2-cropped.png', alt="Jovian Descent">
+<span class="image fit"><img src='/images/portfolio/e-cover-2-cropped.png' alt="Jovian Descent"/></span>
 </p>
 
-<p>Jovian Descent</p>
+*Jovian Descent*

@@ -7,7 +7,7 @@ image: "/images/portfolio/moon-wide-shot-angle4.png"
 ---
 
 <p align="center">
-<img src='/images/portfolio/moon-wide-shot-angle4.png', alt="Terran System">
+<span class="image fit"><img src='/images/portfolio/moon-wide-shot-angle4.png' alt="Moon"/></span>
 </p>
 
-<p>Terran System</p>
+*Terran System*

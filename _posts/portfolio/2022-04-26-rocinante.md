@@ -1,6 +1,6 @@
 ---
 title: Rocinante
-category: 3d
+category: portfolio
 image: "/images/2022/roci-standing-up.jpg"
 layout: post
 date: "2022-04-26"

@@ -7,7 +7,7 @@ tags:
   - "diy"
   - "no-crackers"
   - "sky-lanterns"
-image: "/images/10/diylantern_sm.png"
+image: "/images/2018/10/diylantern_sm.png"
 ---
 
 I have been working on an anti air pollution initiative that was made possible because of [Ashoka Ventures](https://www.ashoka.org/en/program/ashoka-venture-and-fellowship), an organisation whose slogan is "Everyone is a changemaker." It encourages everyone to make some positive change in their surroundings no matter how small.

@@ -7,7 +7,7 @@ image: "/images/portfolio/Mariner-precolony.png"
 ---
 
 <p align="center">
-<img src='/images/portfolio/Mariner-precolony.png', alt="Mariner Valley">
+<span class="image fit"><img src='/images/portfolio/Mariner-precolony.png' alt="Mariner"/></span>
 </p>
 
-<p>Mariner Valley</p>
+*Mariner Valley*

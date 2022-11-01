@@ -7,7 +7,7 @@ image: "/images/portfolio/castleArrakeen.png"
 ---
 
 <p align="center">
-<img src='/images/portfolio/castleArrakeen.png', alt="Castle Arrakeen">
+<span class="image fit"><img src='/images/portfolio/castleArrakeen.png' alt="castle"/></span>
 </p>
 
-<p>Castle Arrakeen</p>
+*Castle Arrakeen*

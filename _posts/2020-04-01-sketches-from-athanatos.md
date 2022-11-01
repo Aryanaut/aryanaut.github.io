@@ -11,21 +11,21 @@ Hope you liked the story.
 
 <p align="center">
 
-<img src="/images/2020/04/skotadi.png">
+<span class="image fit"><img src="/images/2020/04/skotadi.png"></span>
 
-<img src="/images/2020/04/concept-page-1.png">
+<span class="image fit"><img src="/images/2020/04/concept-page-1.png"></span>
 
-<img src="/images/2020/04/concept-page-2.png">
+<span class="image fit"><img src="/images/2020/04/concept-page-2.png"></span>
 
-<img src="/images/2020/04/concept-page-3.png">
+<span class="image fit"><img src="/images/2020/04/concept-page-3.png"></span>
 
-<img src="/images/2020/04/drone.png">
+<span class="image fit"><img src="/images/2020/04/drone.png"></span>
 
-<img src="og-cover.png">
+<span class="image fit"><img src="/images/2020/04/og-cover.png"></span>
 
-<img src="ryan.png">
+<span class="image fit"><img src="/images/2020/04/ryan.png"></span>
 
-<img src="zack.png">
+<span class="image fit"><img src="/images/2020/04/zack.png"></span>
 
 </p>
 

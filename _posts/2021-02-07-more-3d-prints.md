@@ -6,7 +6,7 @@ tags:
   - "3d-printing"
   - "3d-prints"
   - "drawing"
-image: "images/2021img20210207133100-3.jpg"
+image: "/images/2021/img20210207133100-3.jpg"
 layout: post
 ---
 
