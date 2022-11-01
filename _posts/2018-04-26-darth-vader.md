@@ -1,7 +1,7 @@
 ---
 title: "Darth Vader"
 date: "2018-04-26"
-image: "vader-2.png"
+image: "/images/2018/04/vader-2.png"
 category: artwork
 ---
 

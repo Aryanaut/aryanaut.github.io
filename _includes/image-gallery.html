@@ -1,0 +1,38 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 31%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+
+    
+    .cropped {
+        width:200px;
+        height:200px;
+        object-fit: cover;
+    }
+
+    .cropped img {
+        margin-top: 8px;
+        width: 100% ;
+        padding: 10px;
+        transition: all .5s ease-in-out;
+    }
+    .cropped img:hover {
+        transform: scale(1.05);
+    }
+
+</style>
+
+
+<ul class="image-gallery">
+    {% for post in site.posts %}
+    {% if post.category == "portfolio" %}
+            <li>
+                <a href="{{ post.url | absolute_url }}" class="image-fit">
+                    <img src="{{ post.image | absolute_url }}" class="cropped" alt="" />
+                </a>
+            </li>
+    {% endif %}
+    {% endfor %}
+</ul>
