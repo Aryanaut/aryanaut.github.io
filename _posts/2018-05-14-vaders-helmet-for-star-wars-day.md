@@ -6,6 +6,7 @@ tags:
   - "sketching"
   - "starwarsday"
 category: artwork
+image: "/images/2020/06/vader4m-2.jpg"
 ---
 
 Today is Star Wars Day and for that, I drew Vader's crushed helmet from the Force Awakens. Take a look!

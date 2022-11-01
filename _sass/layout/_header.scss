@@ -53,7 +53,7 @@
 		}
 
 		@include breakpoint(small) {
-			padding-bottom: (_size(padding) * 1.5);
+			padding-bottom: (_size(padding) * 1);
 
 			.logo {
 				font-size: 1.75rem;

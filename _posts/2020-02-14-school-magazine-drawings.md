@@ -5,7 +5,7 @@ categories:
   - "sketching"
 tags: 
   - "yearbook"
-coverImage: "whatsapp-image-2020-06-14-at-7.52.39-pm-2-1.jpeg"
+image: "/images/2020/02/whatsapp-image-2020-06-14-at-7.52.39-pm-2-1.jpeg"
 ---
 
 Recently, my school asked me to illustrate the cover page of the school's magazine. I also drew some sketches for some of the articles in the literature section. Here they are!
