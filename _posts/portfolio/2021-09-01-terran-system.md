@@ -5,9 +5,8 @@ category: portfolio
 layout: post
 image: "/images/portfolio/moon-wide-shot-angle4.png"
 ---
+*Terran System, Medium: Digital (Blender)*
 
 <p align="center">
 <span class="image fit"><img src='/images/portfolio/moon-wide-shot-angle4.png' alt="Moon"/></span>
 </p>
-
-*Terran System*

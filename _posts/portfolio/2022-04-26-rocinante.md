@@ -5,6 +5,7 @@ image: "/images/2022/roci-standing-up.jpg"
 layout: post
 date: "2022-04-26"
 ---
+*Rocinante, Medium: Digital (Blender)*
 
 <p align="center">
 <span class="image fit"><img src="/images/2022/roci-on-stand.jpg"></span>

@@ -5,6 +5,7 @@ category: portfolio
 layout: post
 image: "/images/portfolio/thopter.png"
 ---
+*"Ornithopter", Medium: Digital (Blender)*
 
 <p align="center">
 <span class="image fit"><img src='/images/portfolio/ornithopter-main.png' alt='Thopter'/></span>
