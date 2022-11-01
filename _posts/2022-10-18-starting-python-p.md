@@ -1,6 +1,6 @@
 ---
 title: "Starting Python Playground"
-date: "2022-11-18"
+date: "2022-10-18"
 category: category-1
 layout: post
 image: "/images/2022/pp.jpg"
