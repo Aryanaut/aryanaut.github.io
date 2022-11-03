@@ -118,14 +118,14 @@ h1 {
 
 							<div class="outer-grid">
 								<div class="inner-grid">	
-									<a href="https://aryanaut.github.io/embedded-systems.html"><img src="/images/logo/embedded-logo.png"/></a>
+									<a href="https://aryanaut.github.io/embedded-systems.html"><img src="/images/logo/embedded-logo-labelled.png"/></a>
 									<div class="middle">
 										<div class="text">Embedded Systems</div>
 									</div>	
 								</div>
 
 								<div class="inner-grid">
-									<a href="https://aryanaut.github.io/3d.html"><img src="/images/logo/3dmodel-labelled.png"/></a>
+									<a href="https://aryanaut.github.io/3d.html"><img src="/images/logo/3dmodel.png"/></a>
 									<div class="middle">
 										<div class="text">Embedded Systems</div>
 									</div>
@@ -162,7 +162,6 @@ h1 {
 							<section class="posts">
                 {% for post in site.posts limit:4 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
-				{% if post.cateogory != "portfolio"}
 					
   								<article>
   									<header>
@@ -175,7 +174,6 @@ h1 {
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-				{% endif %}
 					
                 {% endfor %}
 
