@@ -162,6 +162,7 @@ h1 {
 							<section class="posts">
                 {% for post in site.posts limit:4 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
+				{% if post.category != "portfolio" %}
 					
   								<article>
   									<header>
@@ -175,7 +176,8 @@ h1 {
   									</ul>
   								</article>
 					
-                {% endfor %}
+                {% endif %}
+				{% endfor %}
 
 							</section>
 
