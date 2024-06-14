@@ -1,6 +1,6 @@
 ---
 title: "Quintessence"
-date: "2023-26-08"
+date: "2023-08-26"
 category: portfolio
 layout: post
 image: "/images/portfolio/quintessence.png"
