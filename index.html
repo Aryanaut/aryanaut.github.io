@@ -127,7 +127,7 @@ h1 {
 								<div class="inner-grid">
 									<a href="https://aryanaut.github.io/3d.html"><img src="/images/logo/3dmodel-labelled.png"/></a>
 									<div class="middle">
-										<div class="text">Embedded Systems</div>
+										<div class="text">3D Models</div>
 									</div>
 
 								</div>
@@ -135,7 +135,7 @@ h1 {
 								<div class="inner-grid">
 									<a href="https://aryanaut.github.io/artwork.html"><img src="/images/logo/artwork-logo-labelled.png"/></a>
 									<div class="middle">
-										<div class="text">Embedded Systems</div>
+										<div class="text">Artwork</div>
 									</div>
 
 								</div>
@@ -143,7 +143,7 @@ h1 {
 								<div class="inner-grid">
 									<a href="https://aryanaut.github.io/writing.html"><img src="/images/logo/stuff-i-wrote-labelled.png"/></a>
 									<div class="middle">
-										<div class="text">Embedded Systems</div>
+										<div class="text">Writing</div>
 									</div>
 
 								</div>
@@ -151,7 +151,7 @@ h1 {
 								<div class="inner-grid">
 									<a href="https://aryanaut.github.io/science.html"><img src="/images/logo/astronomy-labelled.png"/></a>
 									<div class="middle">
-										<div class="text">Embedded Systems</div>
+										<div class="text">Special Interests</div>
 									</div>
 
 								</div>
@@ -162,7 +162,7 @@ h1 {
 							<section class="posts">
                 {% for post in site.posts limit:4 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
-				{% if post.category != "portfolio" %}
+				{% if post.category == "category-1" %}
 					
   								<article>
   									<header>
