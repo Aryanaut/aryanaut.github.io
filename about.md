@@ -4,13 +4,13 @@ title: About Aryanaut
 description: About the site.
 sitemap:
     priority: 0.7
-    lastmod: 2022-06-12
+    lastmod: 2025-02-17
     changefreq: weekly
 ---
 ## About the site
 
 <span class="image left"><img src="{{ "/images/profile.jpg" | absolute_url }}" alt=""/></span>
-My name is Aryan Mahesh. I am 17 years old and studying in Class 12. I am passionate about science, computers, programming, science fiction, writing and art. This site is a collection of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I write.
+My name is Aryan Mahesh. I am 19 years old and studying in the Singapore University of Technology and Design (under Enginering Product Development). I am passionate about science, computers, programming, science fiction, writing and art. This site is a collection of my work from 2015 to the present day. I post about my embedded systems projects, sketches, astrophysics and stories that I write.
 
 I started my embedded systems journey in 2018 when I took part in an inter-school robotics contest. Since then, I have been learning the principles of embedded systems, focusing on Computer Vision systems and OpenCV. I primarily use Python in my projects and I am currently using the Jetson Nano development kit to deploy my code. [The Embedded Systems category](https://aryanaut.github.io/embedded-systems.html) serves as my repository for all things programming-related that I work on.
 
